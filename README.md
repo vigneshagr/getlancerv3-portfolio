@@ -1,3 +1,12 @@
+
+Getlancer-Portfolio is an open source business showcasing platform capable to run an effective website similar to Behance (You can say Behance clone). It is written in AngularJS with REST API for high performance in mind.
+
+This is project is part of Agriya Open Source efforts. Getlancer-Portfolio was originally a paid script and was selling around 1000 Euros. It is now released under dual license (OSL 3.0 & Commercial) for open source community benefits.
+
+behance Clone platform is an open source project. Full commercial support (commercial license, customization, training, etc) are available through [Behance clone support](https://www.agriya.com/products/behance-clone)
+
+Theming partner [CSSilize for design and HTML conversions](http://cssilize.com/)
+
 Installation Steps
 ------------------
 ### Server Requirements
@@ -87,3 +96,8 @@ Go to the path in command prompt. "/client/
 		
 		    */2 * * * * /##DOC_ROOT_PATH/##PROJECT_NAME/server/php/Slim/shell/job.sh 1» /var/www/html/tmp/logs/shell.log 2» /var/www/html/tmp/logs/job.log
      
+### License
+
+Copyright (c) 2014-2018 [Agriya](https://www.agriya.com/).
+
+Dual License (OSL 3.0 & [Commercial License](https://www.agriya.com/contact))
